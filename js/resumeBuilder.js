@@ -1,2 +1,2 @@
 
-$("#main").append([Bhawna Tyagi]);
+$("#main").append(Bhawna Tyagi);
